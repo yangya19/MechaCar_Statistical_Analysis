@@ -14,7 +14,7 @@
 
 * The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch.
 
-All manufacturing lots in total has a global variance of 62.3psi, which means it passed the requirement of not exceeding 100 pounts of variance.
+* All manufacturing lots in total has a global variance of 62.3psi, which means it passed the requirement of not exceeding 100 pounts of variance.
 
 * On lot level, lot 1 and lot 2 has variances lower than 100 and they are into specs. Lot 3 is out of specs with variance 170.3 psi.
 
