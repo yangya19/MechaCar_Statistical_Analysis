@@ -19,3 +19,12 @@
 * On lot level, lot 1 and lot 2 has variances lower than 100 and they are into specs. Lot 3 is out of specs with variance 170.3 psi.
 
 ## T-Tests on Suspension Coils
+[t-test global](https://github.com/yangya19/MechaCar_Statistical_Analysis/blob/main/Resources/global%20t-test.png)
+* This is the t-test for all manufacturing lots against population mean (1500 psi). The p-value for this test is 0.7179. Assuming the significance level is 0.05, the p-value is greater than the significance level. Therefore we can not reject the null hypothesis, and we can say PSI for all manufacturing lots are similar to the population mean of 1500psi.
+
+[t-test lot1](https://github.com/yangya19/MechaCar_Statistical_Analysis/blob/main/Resources/lot1%20t-test.png)
+
+[t-test lot2](https://github.com/yangya19/MechaCar_Statistical_Analysis/blob/main/Resources/lot2%20t-test.png)
+
+[t-test lot3](https://github.com/yangya19/MechaCar_Statistical_Analysis/blob/main/Resources/lot3%20t-test.png)
+* Here are the t-test for lot1,lot2, and lot3 vs. population mean of 1500 psi. Assuming significance level is at p=0.05, the p-values for all these lots are greater than 0.05. Therefore we cannot reject null hypothesis, and we can conclude that PSI per lot are statistically similar to the population mean.
